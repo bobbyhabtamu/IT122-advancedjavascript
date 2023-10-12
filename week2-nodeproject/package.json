@@ -1,0 +1,24 @@
+{
+  
+  "type": "module",
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "firstnodeproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyhabtamu/IT122-advancedjavascript.git"
+  },
+  "keywords": [
+    "Node.js", "web server", "example"
+  ],
+  "author": "bobby habtamu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobbyhabtamu/IT122-advancedjavascript/issues"
+  },
+  "homepage": "https://github.com/bobbyhabtamu/IT122-advancedjavascript#readme"
+}
