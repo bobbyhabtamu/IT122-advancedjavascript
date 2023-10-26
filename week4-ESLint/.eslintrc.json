@@ -1,0 +1,37 @@
+{
+    "rules": {
+      "camelcase": "error",
+      "no-use-before-define": "error"
+    }
+  }
+  
+  //Enforce a consistent indentation style.
+{
+    "rules": {
+      "indent": ["error", 2] // Enforce 2-space indentation
+    }
+  }
+
+  // .eslintrc.json
+{
+    "rules": {
+      "no-var": "error"
+    }
+  }
+
+  // .eslintrc.json
+{
+    "rules": {
+      "no-undef": "error"
+    }
+  }
+
+  // .eslintrc.json
+{
+    "rules": {
+      "no-implicit-globals": "error"
+    }
+  }
+
+  
+  
